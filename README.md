@@ -4,7 +4,7 @@ My first ever open-source Python tool, built with the help of my brother ChatGPT
 🔍 NP-LinkScanner
 NP-LinkScanner is a simple and beginner-friendly Python-based tool that scans suspicious links and detects if they might be harmful. It uses basic keyword detection and a scoring system to flag potentially malicious URLs.
 
-🧠 #Features#
+#  Features
 Detect suspicious keywords in URLs
 
 Score-based decision (Safe / Suspicious)
