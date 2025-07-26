@@ -21,10 +21,9 @@ Python 3.6+
 
 #  🔽 Clone the Repo
 
-( git clone https://github.com/npxAbuzar/np-Linkscanner.git )
+(''' git clone https://github.com/npxAbuzar/np-Linkscanner.git 
 
-
-cd NP-LinkScanner
+cd NP-LinkScanner ''')
 
 #  ⚙️How to Use
 
