@@ -21,21 +21,21 @@ Python 3.6+
 
 #  🔽 Clone the Repo
 
-(''' git clone https://github.com/npxAbuzar/np-Linkscanner.git 
+`` git clone https://github.com/npxAbuzar/np-Linkscanner.git `` 
 
-cd NP-LinkScanner ''')
+ ``cd NP-LinkScanner ``
 
 #  ⚙️How to Use
 
-python npscanner.py
+`` python npscanner.py ``
 
 
 It will ask you to enter a URL and then tell you whether it looks safe or suspicious.
 
 #  Example Output:
 
-Enter URL: http://free-gift-money.com/login
-[!] Suspicious link detected with a score of 8
+`` Enter URL: http://free-gift-money.com/login ``
+`` [!] Suspicious link detected with a score of 8 ``
 
 
 
