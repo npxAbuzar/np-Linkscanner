@@ -17,13 +17,13 @@ Cross-platform: Linux, Windows, macOS
 📦 Requirements
 Python 3.6+
 
-Git (optional)
+
 
 🔽 Clone the Repo
-bash
-Copy
-Edit
-git clone https://github.com/npxAbuzar/np-Linkscanner.git
+
+( git clone https://github.com/npxAbuzar/np-Linkscanner.git )
+
+
 cd NP-LinkScanner
 
 ⚙️*How to Use*
